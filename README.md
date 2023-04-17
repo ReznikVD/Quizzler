@@ -1,4 +1,3 @@
 # Quizzler
 
-Section 9 \n
-MVC, Storyboard
+Section 9
